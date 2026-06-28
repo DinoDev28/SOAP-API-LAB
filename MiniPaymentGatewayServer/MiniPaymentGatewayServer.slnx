@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="MiniPaymentGatewayServer.csproj">
-    <BuildType Project="Debug" />
-  </Project>
-</Solution>
